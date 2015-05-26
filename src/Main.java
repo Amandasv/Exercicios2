@@ -167,7 +167,7 @@ public class Main {
     public static ArrayList<Amigos> ordemCrescente(ArrayList<Amigos> a){
         Collections.sort(a);
         //Collections.reverse(a); //reverte a lista
-    return a;
+        return a;
     }
 
 
